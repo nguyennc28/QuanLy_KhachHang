@@ -1,0 +1,9 @@
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.BusinessLogic.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.BusinessLogic.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.BusinessObjects.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.DataAccess.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.BusinessObjects.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\bin\Debug\QuanLy_KhachHang.DataAccess.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\obj\Debug\QuanLy_KhachHang.BusinessLogic.csprojResolveAssemblyReference.cache
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\obj\Debug\QuanLy_KhachHang.BusinessLogic.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessLogic\obj\Debug\QuanLy_KhachHang.BusinessLogic.pdb

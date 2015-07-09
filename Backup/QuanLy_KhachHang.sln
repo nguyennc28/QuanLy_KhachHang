@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLy_KhachHang.BusinessObjects", "BusinessObjects\QuanLy_KhachHang.BusinessObjects.csproj", "{998A2852-4051-4A86-B17D-BDC08FC3132F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLy_KhachHang.BusinessLogic", "BusinessLogic\QuanLy_KhachHang.BusinessLogic.csproj", "{D0A82639-6B23-4526-B23C-A9B13A52BC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLy_KhachHang.DataAccess", "DataLayer\QuanLy_KhachHang.DataAccess.csproj", "{23D6717B-1411-4202-B0C0-9DD0046D4679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998A2852-4051-4A86-B17D-BDC08FC3132F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998A2852-4051-4A86-B17D-BDC08FC3132F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998A2852-4051-4A86-B17D-BDC08FC3132F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998A2852-4051-4A86-B17D-BDC08FC3132F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A82639-6B23-4526-B23C-A9B13A52BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A82639-6B23-4526-B23C-A9B13A52BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A82639-6B23-4526-B23C-A9B13A52BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A82639-6B23-4526-B23C-A9B13A52BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D6717B-1411-4202-B0C0-9DD0046D4679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D6717B-1411-4202-B0C0-9DD0046D4679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D6717B-1411-4202-B0C0-9DD0046D4679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D6717B-1411-4202-B0C0-9DD0046D4679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

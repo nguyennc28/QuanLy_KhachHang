@@ -1,0 +1,5 @@
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang.Common\bin\Debug\QuanLy_KhachHang.Common.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang.Common\bin\Debug\QuanLy_KhachHang.Common.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang.Common\bin\Debug\FredCK.FCKeditorV2.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang.Common\obj\Debug\QuanLy_KhachHang.Common.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang.Common\obj\Debug\QuanLy_KhachHang.Common.pdb

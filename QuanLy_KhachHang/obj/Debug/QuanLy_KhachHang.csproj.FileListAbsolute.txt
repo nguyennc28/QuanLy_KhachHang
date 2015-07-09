@@ -1,0 +1,6 @@
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\bin\QuanLy_KhachHang.dll.config
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\bin\QuanLy_KhachHang.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\bin\QuanLy_KhachHang.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\obj\Debug\QuanLy_KhachHang.csprojResolveAssemblyReference.cache
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\obj\Debug\QuanLy_KhachHang.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\QuanLy_KhachHang\obj\Debug\QuanLy_KhachHang.pdb

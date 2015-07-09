@@ -1,0 +1,7 @@
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\bin\Debug\QuanLy_KhachHang.DataAccess.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\bin\Debug\QuanLy_KhachHang.DataAccess.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\bin\Debug\QuanLy_KhachHang.BusinessObjects.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\bin\Debug\QuanLy_KhachHang.BusinessObjects.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\obj\Debug\QuanLy_KhachHang.DataAccess.csprojResolveAssemblyReference.cache
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\obj\Debug\QuanLy_KhachHang.DataAccess.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\DataLayer\obj\Debug\QuanLy_KhachHang.DataAccess.pdb

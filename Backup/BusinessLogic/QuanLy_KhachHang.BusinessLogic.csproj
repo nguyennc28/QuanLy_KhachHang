@@ -1,0 +1,74 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d0a82639-6b23-4526-b23c-a9b13a52bc9c}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLy_KhachHang.BusinessLogic</RootNamespace>
+    <AssemblyName>QuanLy_KhachHang.BusinessLogic</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CongNoBL.cs" />
+    <Compile Include="CSKHBL.cs" />
+    <Compile Include="DM_DichVuBL.cs" />
+    <Compile Include="DM_KetQuaBL.cs" />
+    <Compile Include="DM_NguonBL.cs" />
+    <Compile Include="DM_PhongBanBL.cs" />
+    <Compile Include="KhachHangBL.cs" />
+    <Compile Include="KhachHang_DichVuBL.cs" />
+    <Compile Include="NhanVienBL.cs" />
+    <Compile Include="NhanVien_PhongBL.cs" />
+    <Compile Include="PhiCSKHBL.cs" />
+    <Compile Include="ThanhToanBL.cs" />
+    <Compile Include="VATBL.cs" />
+    <Compile Include="trace_xe_action_mapBL.cs" />
+    <Compile Include="trace_xe_event_mapBL.cs" />
+    <Compile Include="QuanLy_KhachHangFacade.cs" />
+    <Compile Include="ServerCache.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObjects\QuanLy_KhachHang.BusinessObjects.csproj">
+      <Project>{998A2852-4051-4A86-B17D-BDC08FC3132F}</Project>
+      <Name>QuanLy_KhachHang.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\QuanLy_KhachHang.DataAccess.csproj">
+      <Project>{23D6717B-1411-4202-B0C0-9DD0046D4679}</Project>
+      <Name>QuanLy_KhachHang.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

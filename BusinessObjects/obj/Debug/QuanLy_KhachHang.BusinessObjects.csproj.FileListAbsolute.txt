@@ -1,0 +1,5 @@
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessObjects\bin\Debug\QuanLy_KhachHang.BusinessObjects.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessObjects\bin\Debug\QuanLy_KhachHang.BusinessObjects.pdb
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessObjects\obj\Debug\QuanLy_KhachHang.BusinessObjects.csprojResolveAssemblyReference.cache
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessObjects\obj\Debug\QuanLy_KhachHang.BusinessObjects.dll
+I:\QuanLy_KhachHang\QuanLy_KhachHang\BusinessObjects\obj\Debug\QuanLy_KhachHang.BusinessObjects.pdb
